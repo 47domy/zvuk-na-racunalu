@@ -1,0 +1,262 @@
+body {
+	background-color: #000000;
+}
+#container {
+	background-color: #000000;
+	background-image: url("Images\sound_wallpaper.jpg");
+	border: 1px solid #cccccc;
+	margin-top: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+}
+#above {
+	background-color: #cccccc;
+	border: 1px solid #cccccc;
+	font-size: 80%;
+}
+#header {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	min-height: 100px;
+	background-color: #cccccc;
+	border: 2px solid #000000;
+}
+#odjel_link {
+	display: inline-block;
+	float: right;
+}
+#odjel_link a {
+	color: #000000;
+	text-decoration: none;
+}
+#odjel_link a:hover {
+	color: #0033FF;
+	text-decoration: underline;
+}
+#odjel_logo_left {
+	float: left;
+	border: 2px solid #000000;
+	margin-top: auto;
+	background-color: #000000;
+}
+#odjel_logo_right {
+	float: right;
+	border: 2px solid #000000;
+	margin-top: auto;
+	background-color: #000000;
+}
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	color: black;
+	font-size: 120%;
+}
+#nav {
+		border: 1px solid #000000;
+		background-color: #cccccc;
+
+}
+table#navigacija {
+	background-color: #000000;
+	margin-left: auto;
+	margin-right: auto;
+	color: #FFFFFF;
+	border: 1px solid #cccccc;
+}
+table#navigacija td {
+	border: 1px solid #cccccc;
+	padding-left: 3px;
+	padding-right: 3px;
+}
+#sound_icon_left {
+	float: left;
+	margin-top: auto;
+	margin-bottom: auto;
+	padding-left: 50px;
+}
+#sound_icon_right {
+	float: right;
+	margin-top: auto;
+	margin-bottom: auto;
+	padding-right: 50px;
+}
+hr {
+	color: #FFFFFF;
+}
+#main_ {
+	background-color: #99ccFF;
+	border: 3px solid #000000;
+	border-radius: 5px;
+	margin-bottom: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	min-height: 500px;
+}
+h5 {
+	text-align: center;
+	text-decoration: none;
+	font-size: 120%;
+}
+h3 {
+	text-align: center;
+	font-size: 120%;
+	padding-right: 20px;
+}
+h2 {
+	text-align: center;
+	font-size: 150%;
+}
+p {
+	text-indent: 40px;
+	text-align: justify;
+	margin-left: 30px;
+	margin-right: 30px;
+	font-size: 110%;
+	line-height: 130%;
+}
+a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a:hover {
+	text-decoration: underline;
+	color: #FFFFFF;
+}
+#odjel_link a:hover {
+	text-decoration: underline;
+	color: #999999;
+}
+img {
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+}
+
+table#Tablica_1 {
+	margin-left: 220px;
+	max-width: 700px;
+}
+table#Tablica_1 th, td {
+	padding: right;
+
+	border: 1px solid black;
+	border-spacing: 5px;
+}
+table#Tablica_1 th, tr {
+	background-color: #000000;
+	text-align: center;
+}
+table#Tablica_1 td {
+	background-color: #cccccc;
+}
+table#Tablica_1 th {
+	border: 3px solid black;
+}
+a#naslov_link {
+	color: black;
+}
+a#naslov_link:hover {
+	color: #999999;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+
+}
+.dropdown_content {
+    display: none;
+    position: absolute;
+    background-color: #000000;
+	min-width: auto;
+	float: middle;
+    z-index: 1;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+.dropdown_content a {
+	padding: middle;
+    text-decoration: none;
+    display: block;
+	margin-left: auto;
+	margin-right: auto;
+	color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+}
+.dropdown_content a:hover {
+	text-decoration: underline;
+}
+.dropdown:hover .dropdown_content {
+    display: block;
+}
+ul {
+	font-size: 100%;
+	list-style-type: circle; 
+
+}
+h6 {
+	font-size: 110%;
+}
+#main_ {
+	float: center;
+	min-height: 1015px;
+
+}
+#ver_nav {
+	float: left;
+	background-color: #000000;
+	border: 2px solid #FFFFFF;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+	margin-right: 20px;
+	min-height: 1000px;
+	max-width: 200px;
+}
+ol {
+	color: #FFFFFF;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	padding-right: 7px;
+	font-size: 100%;
+}
+#Footer {
+	background-color: #cccccc;
+	color: #000000;
+	float: center;
+	font-size: 90%;
+	text-align: center;
+}
+#popis {
+	padding-left: 220px;
+}
+h4 {
+	color: #000000;
+	text-decoration: underline;
+	text-align: left;
+	padding-left: 10px;
+}
+#list_1 {
+	border: 3px solid #000000;
+	margin-left: 230px;
+	margin-top: 5px;
+	margin-right: 15px;
+	padding: 50px 50px 50px 50px;
+	background-color: #cccccc;
+}
+#list_1 a{
+	font-size: 120%;
+	color: black;
+	text-decoration: none;
+}
+
+
+
+
